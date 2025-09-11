@@ -2,4 +2,4 @@
 This project is a general practical exercise designed to discover networking.
 
 
-[Exercises](net_practice)
+##[The exercises](exercises.tgz) are in the archive "exercises.tgz". Use "tar -xzf exercises.tgz" to extract it.
